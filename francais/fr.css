@@ -1,5 +1,5 @@
 #body{
-    background-color: gray;
+    background-color: gold;
     text-align: center;
     }
     
@@ -14,19 +14,26 @@
     }
 
     #table{
-        border-spacing: 2vh;
+        border-spacing: 3vh;
     }
 
 .groupe{
-    border-spacing: 10px;
     text-align: center;
     text-decoration: none;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 20% /20%;
+    box-shadow: 1px 1px 15px green;
+    background-color:darkgreen;
 
 }
 
 .groupe >a {
     text-decoration: none;
-    color: black;
+    color: gold;
+}
+
+.img{
+    clip-path: ellipse(50% 50%);
+    
 }
 
