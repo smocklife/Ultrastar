@@ -1,0 +1,35 @@
+#body{
+    background-color: gray;
+    text-align: center;
+    cursor: pointer;
+    max-width: 100%;
+    max-height: 100%;
+    }
+    
+    #titre{
+        font-size: 250%;
+    }
+
+    #cat{
+        text-align: center;
+        font-size: 150%;
+    
+    }
+
+    #table{
+        border-spacing: 2vh;
+    }
+
+.groupe{
+    border-spacing: 10px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+
+}
+
+.groupe >a {
+    text-decoration: none;
+    color: black;
+}
+
