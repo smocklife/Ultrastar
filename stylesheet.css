@@ -4,7 +4,7 @@
     cursor: pointer;
     text-align: center;
     max-height: 100%;
-    max-width: 80%;
+    max-width: 90%;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -19,8 +19,8 @@ font-size: 100%;
 
 .cat{
     border: 1px solid black;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left:40%;
+    margin-right:40%;
     background-color: rgb(119, 97, 97);
 
 }
@@ -28,4 +28,5 @@ font-size: 100%;
 .cat>a{
     text-decoration: none;
     color: black;
+    
 }
