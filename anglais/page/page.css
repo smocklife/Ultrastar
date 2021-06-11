@@ -1,0 +1,29 @@
+.body{
+    background-color: blueviolet;
+    text-align:center;
+}
+
+.titre{
+    text-align: center;
+    font-size: 250%;
+    text-decoration: underline red;
+
+}
+
+#corp{
+    border: 10px  ridge black;
+    box-shadow: 1px 5px 10px rgb(54, 54, 54);
+    margin-left:  10%;
+    margin-right: 10%;
+
+
+}
+
+#liste > ul{
+list-style: none;
+line-height: 130%;
+font-size: 150%;
+}
+#img{
+    clip-path:ellipse(50% 50%);
+}
