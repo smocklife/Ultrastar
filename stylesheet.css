@@ -1,11 +1,14 @@
 
 #body{
-    background-color: gray;
+    background-color:black;
     text-align: center;
+
 }
 
 #titre{
     font-size: 250%;
+    text-shadow: 1px 1px 5px green;
+    color: yellow;
 }
 
 #menu{
@@ -14,14 +17,18 @@ font-size: 150%;
 
 .cat{
     border: 1px solid black;
+    box-shadow: 1px 1px 50px green;
     margin-left:35%;
     margin-right:35%;
-    background-color: rgb(119, 97, 97);
+    background: linear-gradient(to right, yellow, black);
 
 }
 
 .cat>a{
     text-decoration: none;
-    color: black;
+    text-shadow: 1px 1px 10px yellow ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 44, 6);
+    
     
 }
