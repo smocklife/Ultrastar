@@ -2,6 +2,7 @@
 #body{
     background-color:black;
     text-align: center;
+    align-content: center;
 
 }
 
@@ -17,7 +18,8 @@ font-size: 150%;
 
 .cat{
     border: 1px solid black;
-    box-shadow: 1px 1px 50px green;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px green;
     margin-left:35%;
     margin-right:35%;
     background: linear-gradient(to right, yellow, black);
@@ -26,9 +28,9 @@ font-size: 150%;
 
 .cat>a{
     text-decoration: none;
-    text-shadow: 1px 1px 10px yellow ;
+    text-shadow: 1px 1px 3px green ;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(6, 44, 6);
+    color: black;
     
     
 }

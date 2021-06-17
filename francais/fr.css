@@ -1,13 +1,15 @@
 #body{
-    background-color: gold;
+    background-color:black;
     text-align: center;
     }
     
     #titre{
         font-size: 250%;
+        color: yellow;
     }
 
     #cat{
+        color: yellow;
         text-align: center;
         font-size: 150%;
     
@@ -20,19 +22,20 @@
 .groupe{
     text-align: center;
     text-decoration: none;
-    border: 2px solid black;
+    border: 2px solid white;
     border-radius: 20% /20%;
-    box-shadow: 1px 1px 15px green;
-    background-color:darkgreen;
-
+    box-shadow: 3px 5px 10px white;
+    background:linear-gradient(to right, yellow,black);
 }
 
 .groupe >a {
     text-decoration: none;
     color: gold;
+    text-shadow: 1px 3px 3px green ;
 }
 
 .img{
     clip-path: ellipse(50% 50%);
+    
 }
 
