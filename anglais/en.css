@@ -6,10 +6,12 @@
     #titre{
         font-size: 250%;
         color: yellow;
+        text-shadow: 1px 1px 1px white;
     }
 
     #cat{
         color: yellow;
+        text-shadow: 1px 1px 1px white;
         text-align: center;
         font-size: 150%;
     
@@ -32,11 +34,12 @@
     text-decoration: none;
     color: black;
     font-size: 110%;
-    text-shadow: 1px 3px 3px green ;
+    text-shadow: 1px 1px 1px white;
+    
 }
 
 .img{
-    clip-path: ellipse(50% 50%);
-    
+    border: 3px solid yellow;
+    border-radius: 100px ;
 }
 

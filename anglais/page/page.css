@@ -12,12 +12,12 @@
     font-size: 250%;
     border-bottom: 1px solid black;
     border-radius: 50%;
-    box-shadow: red 1px 25px 15px;
+    box-shadow: red 1px 5px 5px;
 }
 
 #corp{
     border: 10px  ridge gold;
-    box-shadow: 1px 5px 10px white;
+    box-shadow: 1px 30px 40px white;
     margin-left:  10%;
     margin-right: 10%;
     background-color: rgba(0, 0, 0, 0.178);
@@ -29,8 +29,11 @@
 list-style: none;
 line-height: 130%;
 font-size: 150%;
+text-shadow: gold 1px 1px 5px;
 
 }
 #img{
-    clip-path:ellipse(50% 50%);
+    border: 5px solid yellow;
+    border-radius: 100px;
+
 }
