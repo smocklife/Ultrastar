@@ -1,21 +1,27 @@
 .body{
-    background-color: blueviolet;
+    background:linear-gradient(to left, black,yellow);
     text-align:center;
 }
 
 .titre{
+    color:black;
+    text-shadow: white 1px 1px 10px;
     text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
     font-size: 250%;
-    text-decoration: underline red;
-
+    border-bottom: 1px solid black;
+    border-radius: 50%;
+    box-shadow: red 1px 25px 15px;
 }
 
 #corp{
-    border: 10px  ridge black;
-    box-shadow: 1px 5px 10px rgb(54, 54, 54);
+    border: 10px  ridge gold;
+    box-shadow: 1px 5px 10px white;
     margin-left:  10%;
     margin-right: 10%;
-
+    background-color: rgba(0, 0, 0, 0.178);
+    color:black;
 
 }
 
@@ -23,6 +29,7 @@
 list-style: none;
 line-height: 130%;
 font-size: 150%;
+
 }
 #img{
     clip-path:ellipse(50% 50%);
